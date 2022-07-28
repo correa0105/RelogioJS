@@ -6,6 +6,8 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/correa0105/RelogioJS?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/correa0105/RelogioJS?style=for-the-badge)
 
+<img src="./assets/exemplo.JPG" alt="Exemplo do Projeto">
+
 # ☕ Descrição do Projeto
 
 Relógio com UX Design feito utilizando JavaScript, neste projeto manipulei diversos atributos do CSS atráves de funções.
